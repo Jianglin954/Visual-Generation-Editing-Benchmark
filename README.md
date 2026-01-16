@@ -3,65 +3,86 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 ![Benchmark](https://img.shields.io/badge/Text2Image_Generation-blue)
 
-A curated benchmark for **Text-to-Image (T2I) generation**, focusing on datasets, prompts, and representative generative models.
+A curated benchmark for **Text-to-Image (T2I) generation**.
 ---
 
 ## Table of Contents
-- [Dataset](#dataset)
-  - [Prompt Collection](#prompt-collection)
-- [Models](#models)
-  - [Diffusion Models](#diffusion-models)
-  - [Autoregressive Models](#autoregressive-models)
+- [Generation Benchmark](#T2IGen)
+  - [Text-to-Image Generation](#T2IGen)
+  - [Text-to-Video Generation](#T2VGen)
+- [Editing Benchmark](#edit)
+  - [Text-to-Image Editing](#T2IEdit)
 
 ---
 
-## Dataset
+## Generation Benchmark
+### Text-to-Image Generation
 
-This benchmark organizes evaluation data with a strong emphasis on **prompt quality**, **semantic diversity**, and **reproducibility**.
+- [*EMNLP 2025*] **R2I-Bench: Benchmarking Reasoning-Driven Text-to-Image Generation** [[PDF](https://arxiv.org/pdf/2505.23493)][[Code](https://github.com/PLUM-Lab/R2I-Bench)]
 
-### Prompt Collection
+- [*arXiv 2025*] **UniGenBench++: A Unified Semantic Evaluation Benchmark for Text-to-Image Generation** [[PDF](https://arxiv.org/pdf/2510.18701)][[Code](https://github.com/CodeGoat24/UniGenBench)]
 
-The following prompts are derived from canonical academic literature and are designed to test a model’s ability to capture **semantic structure, compositionality, and abstract concepts**.
+- [*TPAMI 2025*] **T2I-CompBench++: An Enhanced and Comprehensive Benchmark for Compositional Text-to-Image Generation** [[PDF](https://arxiv.org/pdf/2307.06350)[[Code]](https://github.com/Karine-Huang/T2I-CompBench)][[Dataset](https://connecthkuhk-my.sharepoint.com/:f:/g/personal/huangky_connect_hku_hk/Er_BhrcMwGREht6gnKGIErMBx8H8yRXLDfWgWQwKaObQ4w?e=YzT5wG)]
 
-1. **Deep Residual Learning for Image Recognition**  
-   *Kaiming He et al., CVPR 2016*  
-   [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7780459)
+- [*NeurIPS 2023*] **T2I-CompBench: A Comprehensive Benchmark for Open-world Compositional Text-to-image Generation** [[PDF](https://openreview.net/pdf?id=weHBzTLXpH)][[Code](https://github.com/Karine-Huang/T2I-CompBench)[[Dataset]](https://connecthkuhk-my.sharepoint.com/:f:/g/personal/huangky_connect_hku_hk/Er_BhrcMwGREht6gnKGIErMBx8H8yRXLDfWgWQwKaObQ4w?e=YzT5wG)]
 
-> More prompts will be added progressively to cover different abstraction levels, visual styles, and reasoning complexity.
+- [*GitHub 2023*] **Text-to-Image Benchmark: A benchmark for generative models** [[PDF]()][[Code](https://github.com/boomb0om/text2image-benchmark)]
 
----
+- [*ICCV 2023*] **TIFA: Accurate and Interpretable Text-to-Image Faithfulness Evaluation with Question Answering** [[PDF](https://openaccess.thecvf.com/content/ICCV2023/papers/Hu_TIFA_Accurate_and_Interpretable_Text-to-Image_Faithfulness_Evaluation_with_Question_Answering_ICCV_2023_paper.pdf)][[Code](https://github.com/Yushi-Hu/tifa)]
 
-## Models
+- [*ICCV 2023*] **HRS-Bench: Holistic, Reliable and Scalable Benchmark for Text-to-Image Models** [[PDF](https://openaccess.thecvf.com/content/ICCV2023/papers/Bakr_HRS-Bench_Holistic_Reliable_and_Scalable_Benchmark_for_Text-to-Image_Models_ICCV_2023_paper.pdf)][[Code](https://github.com/eslambakr/HRS_benchmark)]
 
-This section categorizes representative **Text-to-Image generation models** evaluated or referenced in this benchmark.
+- [*arXiv 2023*] **X-IQE: eXplainable Image Quality Evaluation for Text-to-Image Generation with Visual Large Language Models** [[PDF](https://arxiv.org/pdf/2305.10843)][[Code](https://github.com/Schuture/Benchmarking-Awesome-Diffusion-Models)]
 
-> 🚧 *This section is under active development.*
 
-### Diffusion Models
-
-Diffusion-based models that iteratively refine noise into images.
-
-1. **Updating**  
-   *et al.*  
-   [[PDF]]()
 
 ---
 
-### Autoregressive Models
+### Text-to-Video Generation
 
-Autoregressive (AR) models that generate images as sequences of tokens or patches.
+- [*CVPR 2025*] **T2V-CompBench: A Comprehensive Benchmark for Compositional Text-to-video Generation** [[PDF](https://openaccess.thecvf.com/content/CVPR2025/papers/Sun_T2V-CompBench_A_Comprehensive_Benchmark_for_Compositional_Text-to-video_Generation_CVPR_2025_paper.pdf)][[Code](https://github.com/KaiyueSun98/T2V-CompBench/tree/V2)]
 
-1. **Updating**  
-   *et al.*  
-   [[PDF]]()
+- [*arXiv 2025*] **UI2V-Bench: An Understanding-based Image-to-video Generation Benchmark** [[PDF](https://arxiv.org/pdf/2509.24427)][[Code]()]
+
+- [*arXiv 2025*] **VBench-2.0: Advancing Video Generation Benchmark Suite for Intrinsic Faithfulness** [[PDF](https://arxiv.org/pdf/2503.21755)][[Code](https://github.com/Vchitect/VBench)]![GitHub Repo stars](https://img.shields.io/github/stars/Vchitect/VBench?style=social)
+
+- [*TPAMI 2025*] **VBench++: Comprehensive and Versatile Benchmark Suite for Video Generative Models** [[PDF](https://arxiv.org/pdf/2411.13503)][[Code](https://github.com/Vchitect/VBench)]![GitHub Repo stars](https://img.shields.io/github/stars/Vchitect/VBench?style=social)
+
+- [*CVPR 2024*] **VBench: Comprehensive Benchmark Suite for Video Generative Models** [[PDF](https://openaccess.thecvf.com/content/CVPR2024/papers/Huang_VBench_Comprehensive_Benchmark_Suite_for_Video_Generative_Models_CVPR_2024_paper.pdf)][[Code](https://github.com/Vchitect/VBench)]![GitHub Repo stars](https://img.shields.io/github/stars/Vchitect/VBench?style=social)
+
+- [*CVPR 2024*] **EvalCrafter: Benchmarking and Evaluating Large Video Generation Models** [[PDF](https://openaccess.thecvf.com/content/CVPR2024/papers/Liu_EvalCrafter_Benchmarking_and_Evaluating_Large_Video_Generation_Models_CVPR_2024_paper.pdf)][[Code](https://github.com/EvalCrafter/EvalCrafter)]![GitHub Repo stars](https://img.shields.io/github/stars/EvalCrafter/EvalCrafter?style=social)
+
+- [*Conference/Journal Year*] **Evaluation of Text-to-Video Generation Models: A Dynamics Perspective** [[PDF](https://proceedings.neurips.cc/paper_files/paper/2024/file/c6483c8a68083af3383f91ee0dc6db95-Paper-Conference.pdf)][[Code](https://github.com/MingXiangL/DEVIL)]![GitHub Repo stars](https://img.shields.io/github/stars/MingXiangL/DEVIL?style=social)
+
+- [*arXiv 2024*] **AIGCBench: Comprehensive Evaluation of Image-to-Video Content Generated by AI** [[PDF](https://arxiv.org/pdf/2401.01651)][[Code](https://github.com/BenchCouncil/AIGCBench)]![GitHub Repo stars](https://img.shields.io/github/stars/BenchCouncil/AIGCBench?style=social)
+
+
 
 ---
 
-## Roadmap
-- [ ] Expand prompt set with fine-grained semantic controls  
-- [ ] Add standardized evaluation metrics (FID, CLIP-Score, human preference)  
-- [ ] Include model configuration and inference settings  
-- [ ] Provide reproducible evaluation scripts  
+
+
+
+## Editing Benchmark
+### Text-to-Image Editing
+
+- [*ACM MM 2025*] **Towards Explainable Partial-AIGC Image Quality Assessment** [[PDF](https://arxiv.org/pdf/2504.09291)][[Code](https://github.com/jzhws/Partial-AIGC-IQA)]
+
+
+
+---
+
+
+
+## Contributing
+Contributions to this repository are welcome! 
+
+If you have come across relevant resources, feel free to open an issue or submit a pull request.
+
+```
+- [*Conference/Journal Year*] **paper_name** [[PDF](link)][[Code](link)]
+```
+
 
 ---
 
