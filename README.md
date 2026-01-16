@@ -3,6 +3,20 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 ![Benchmark](https://img.shields.io/badge/Text2Image_Generation-blue)
 
+
+---
+
+## Contributing
+Contributions to this repository are welcome! 
+
+If you have come across relevant resources, feel free to open an [Issue](https://github.com/Jianglin954/T2I-benchmark/issues), or submit a [Pull Requests](https://github.com/Jianglin954/T2I-benchmark/pulls):
+
+```
+- [*Conference/Journal Year*] **paper_name** [[PDF](link)][[Code](link)]
+```
+
+
+
 ---
 
 ## Table of Contents
@@ -66,25 +80,21 @@
 ## Editing Benchmark
 ### Text-to-Image Editing
 
+- [*arXiv 2025*] **Complex-Edit: CoT-Like Instruction Generation for Complexity-Controllable Image Editing Benchmark** [[PDF](https://arxiv.org/pdf/2504.13143)][[Code](https://github.com/UCSC-VLAA/Complex-Edit)]![GitHub Repo stars](https://img.shields.io/github/stars/UCSC-VLAA/Complex-Edit?style=social)
+
+- [*arXiv 2025*] **CompBench: Benchmarking Complex Instruction-guided Image Editing** [[PDF](https://arxiv.org/pdf/2505.12200)][[Code](https://github.com/BhJia/CompBench)]![GitHub Repo stars](https://img.shields.io/github/stars/BhJia/CompBench?style=social)
+
+- [*NeurIPS 2025*] **ImgEdit: A Unified Image Editing Dataset and Benchmark** [[PDF](https://openreview.net/pdf?id=uUCSrMlfD3)][[Code](https://github.com/PKU-YuanGroup/ImgEdit)]![GitHub Repo stars](https://img.shields.io/github/stars/PKU-YuanGroup/ImgEdit?style=social)
+
+- [*CVPR 2025*] **Towards Scalable Human-aligned Benchmark for Text-guided Image Editing** [[PDF](https://openaccess.thecvf.com/content/CVPR2025/papers/Ryu_Towards_Scalable_Human-aligned_Benchmark_for_Text-guided_Image_Editing_CVPR_2025_paper.pdf)][[Code](https://github.com/SuhoRyu/HATIE)]![GitHub Repo stars](https://img.shields.io/github/stars/SuhoRyu/HATIE?style=social)
+
 - [*ACM MM 2025*] **Towards Explainable Partial-AIGC Image Quality Assessment** [[PDF](https://arxiv.org/pdf/2504.09291)][[Code](https://github.com/jzhws/Partial-AIGC-IQA)]![GitHub Repo stars](https://img.shields.io/github/stars/jzhws/Partial-AIGC-IQA?style=social)
 
+- [*ACL 2025*] **EditInspector: A Benchmark for Evaluation of Text-Guided Image Edits** [[PDF](https://arxiv.org/pdf/2506.09988)][[Code](https://github.com/editinspector/EditInspector)]![GitHub Repo stars](https://img.shields.io/github/stars/editinspector/EditInspector?style=social)
 
 
 ---
 
-
-
-## Contributing
-Contributions to this repository are welcome! 
-
-If you have come across relevant resources, feel free to open an issue or submit a pull request.
-
-```
-- [*Conference/Journal Year*] **paper_name** [[PDF](link)][[Code](link)]
-```
-
-
----
 
 ## Citation
 
