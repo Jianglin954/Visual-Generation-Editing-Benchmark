@@ -3,7 +3,6 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 ![Benchmark](https://img.shields.io/badge/Text2Image_Generation-blue)
 
-A curated benchmark for **Text-to-Image (T2I) generation**.
 ---
 
 ## Table of Contents
@@ -18,21 +17,21 @@ A curated benchmark for **Text-to-Image (T2I) generation**.
 ## Generation Benchmark
 ### Text-to-Image Generation
 
-- [*EMNLP 2025*] **R2I-Bench: Benchmarking Reasoning-Driven Text-to-Image Generation** [[PDF](https://arxiv.org/pdf/2505.23493)][[Code](https://github.com/PLUM-Lab/R2I-Bench)]
+- [*EMNLP 2025*] **R2I-Bench: Benchmarking Reasoning-Driven Text-to-Image Generation** [[PDF](https://arxiv.org/pdf/2505.23493)][[Code](https://github.com/PLUM-Lab/R2I-Bench)]![GitHub Repo stars](https://img.shields.io/github/stars/PLUM-Lab/R2I-Bench?style=social)
 
-- [*arXiv 2025*] **UniGenBench++: A Unified Semantic Evaluation Benchmark for Text-to-Image Generation** [[PDF](https://arxiv.org/pdf/2510.18701)][[Code](https://github.com/CodeGoat24/UniGenBench)]
+- [*arXiv 2025*] **UniGenBench++: A Unified Semantic Evaluation Benchmark for Text-to-Image Generation** [[PDF](https://arxiv.org/pdf/2510.18701)][[Code](https://github.com/CodeGoat24/UniGenBench)]![GitHub Repo stars](https://img.shields.io/github/stars/CodeGoat24/UniGenBench?style=social)
 
-- [*TPAMI 2025*] **T2I-CompBench++: An Enhanced and Comprehensive Benchmark for Compositional Text-to-Image Generation** [[PDF](https://arxiv.org/pdf/2307.06350)[[Code]](https://github.com/Karine-Huang/T2I-CompBench)][[Dataset](https://connecthkuhk-my.sharepoint.com/:f:/g/personal/huangky_connect_hku_hk/Er_BhrcMwGREht6gnKGIErMBx8H8yRXLDfWgWQwKaObQ4w?e=YzT5wG)]
+- [*TPAMI 2025*] **T2I-CompBench++: An Enhanced and Comprehensive Benchmark for Compositional Text-to-Image Generation** [[PDF](https://arxiv.org/pdf/2307.06350)[[Code]](https://github.com/Karine-Huang/T2I-CompBench)][[Dataset](https://connecthkuhk-my.sharepoint.com/:f:/g/personal/huangky_connect_hku_hk/Er_BhrcMwGREht6gnKGIErMBx8H8yRXLDfWgWQwKaObQ4w?e=YzT5wG)]![GitHub Repo stars](https://img.shields.io/github/stars/Karine-Huang/T2I-CompBench?style=social)
 
-- [*NeurIPS 2023*] **T2I-CompBench: A Comprehensive Benchmark for Open-world Compositional Text-to-image Generation** [[PDF](https://openreview.net/pdf?id=weHBzTLXpH)][[Code](https://github.com/Karine-Huang/T2I-CompBench)[[Dataset]](https://connecthkuhk-my.sharepoint.com/:f:/g/personal/huangky_connect_hku_hk/Er_BhrcMwGREht6gnKGIErMBx8H8yRXLDfWgWQwKaObQ4w?e=YzT5wG)]
+- [*NeurIPS 2023*] **T2I-CompBench: A Comprehensive Benchmark for Open-world Compositional Text-to-image Generation** [[PDF](https://openreview.net/pdf?id=weHBzTLXpH)][[Code](https://github.com/Karine-Huang/T2I-CompBench)[[Dataset]](https://connecthkuhk-my.sharepoint.com/:f:/g/personal/huangky_connect_hku_hk/Er_BhrcMwGREht6gnKGIErMBx8H8yRXLDfWgWQwKaObQ4w?e=YzT5wG)]![GitHub Repo stars](https://img.shields.io/github/stars/Karine-Huang/T2I-CompBench?style=social)
 
-- [*GitHub 2023*] **Text-to-Image Benchmark: A benchmark for generative models** [[PDF]()][[Code](https://github.com/boomb0om/text2image-benchmark)]
+- [*GitHub 2023*] **Text-to-Image Benchmark: A benchmark for generative models** [[PDF]()][[Code](https://github.com/boomb0om/text2image-benchmark)]![GitHub Repo stars](https://img.shields.io/github/stars/boomb0om/text2image-benchmark?style=social)
 
-- [*ICCV 2023*] **TIFA: Accurate and Interpretable Text-to-Image Faithfulness Evaluation with Question Answering** [[PDF](https://openaccess.thecvf.com/content/ICCV2023/papers/Hu_TIFA_Accurate_and_Interpretable_Text-to-Image_Faithfulness_Evaluation_with_Question_Answering_ICCV_2023_paper.pdf)][[Code](https://github.com/Yushi-Hu/tifa)]
+- [*ICCV 2023*] **TIFA: Accurate and Interpretable Text-to-Image Faithfulness Evaluation with Question Answering** [[PDF](https://openaccess.thecvf.com/content/ICCV2023/papers/Hu_TIFA_Accurate_and_Interpretable_Text-to-Image_Faithfulness_Evaluation_with_Question_Answering_ICCV_2023_paper.pdf)][[Code](https://github.com/Yushi-Hu/tifa)]![GitHub Repo stars](https://img.shields.io/github/stars/Yushi-Hu/tifa?style=social)
 
-- [*ICCV 2023*] **HRS-Bench: Holistic, Reliable and Scalable Benchmark for Text-to-Image Models** [[PDF](https://openaccess.thecvf.com/content/ICCV2023/papers/Bakr_HRS-Bench_Holistic_Reliable_and_Scalable_Benchmark_for_Text-to-Image_Models_ICCV_2023_paper.pdf)][[Code](https://github.com/eslambakr/HRS_benchmark)]
+- [*ICCV 2023*] **HRS-Bench: Holistic, Reliable and Scalable Benchmark for Text-to-Image Models** [[PDF](https://openaccess.thecvf.com/content/ICCV2023/papers/Bakr_HRS-Bench_Holistic_Reliable_and_Scalable_Benchmark_for_Text-to-Image_Models_ICCV_2023_paper.pdf)][[Code](https://github.com/eslambakr/HRS_benchmark)]![GitHub Repo stars](https://img.shields.io/github/stars/eslambakr/HRS_benchmark?style=social)
 
-- [*arXiv 2023*] **X-IQE: eXplainable Image Quality Evaluation for Text-to-Image Generation with Visual Large Language Models** [[PDF](https://arxiv.org/pdf/2305.10843)][[Code](https://github.com/Schuture/Benchmarking-Awesome-Diffusion-Models)]
+- [*arXiv 2023*] **X-IQE: eXplainable Image Quality Evaluation for Text-to-Image Generation with Visual Large Language Models** [[PDF](https://arxiv.org/pdf/2305.10843)][[Code](https://github.com/Schuture/Benchmarking-Awesome-Diffusion-Models)]![GitHub Repo stars](https://img.shields.io/github/stars/Schuture/Benchmarking-Awesome-Diffusion-Models?style=social)
 
 
 
@@ -40,7 +39,8 @@ A curated benchmark for **Text-to-Image (T2I) generation**.
 
 ### Text-to-Video Generation
 
-- [*CVPR 2025*] **T2V-CompBench: A Comprehensive Benchmark for Compositional Text-to-video Generation** [[PDF](https://openaccess.thecvf.com/content/CVPR2025/papers/Sun_T2V-CompBench_A_Comprehensive_Benchmark_for_Compositional_Text-to-video_Generation_CVPR_2025_paper.pdf)][[Code](https://github.com/KaiyueSun98/T2V-CompBench/tree/V2)]
+- [*CVPR 2025*] **T2V-CompBench: A Comprehensive Benchmark for Compositional Text-to-video Generation** [[PDF](https://openaccess.thecvf.com/content/CVPR2025/papers/Sun_T2V-CompBench_A_Comprehensive_Benchmark_for_Compositional_Text-to-video_Generation_CVPR_2025_paper.pdf)][[Code](https://github.com/KaiyueSun98/T2V-CompBench/tree/V2)]![GitHub Repo stars](https://img.shields.io/github/stars/KaiyueSun98/T2V-CompBench?style=social)
+
 
 - [*arXiv 2025*] **UI2V-Bench: An Understanding-based Image-to-video Generation Benchmark** [[PDF](https://arxiv.org/pdf/2509.24427)][[Code]()]
 
@@ -66,7 +66,7 @@ A curated benchmark for **Text-to-Image (T2I) generation**.
 ## Editing Benchmark
 ### Text-to-Image Editing
 
-- [*ACM MM 2025*] **Towards Explainable Partial-AIGC Image Quality Assessment** [[PDF](https://arxiv.org/pdf/2504.09291)][[Code](https://github.com/jzhws/Partial-AIGC-IQA)]
+- [*ACM MM 2025*] **Towards Explainable Partial-AIGC Image Quality Assessment** [[PDF](https://arxiv.org/pdf/2504.09291)][[Code](https://github.com/jzhws/Partial-AIGC-IQA)]![GitHub Repo stars](https://img.shields.io/github/stars/jzhws/Partial-AIGC-IQA?style=social)
 
 
 
