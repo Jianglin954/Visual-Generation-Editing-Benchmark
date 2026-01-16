@@ -1,7 +1,7 @@
 # Text-to-Image Generation Benchmark
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-![Benchmark](https://img.shields.io/badge/Multimodal_Alignment-blue)
+![Benchmark](https://img.shields.io/badge/Text2Image_Generation-blue)
 
 A curated benchmark for **Text-to-Image (T2I) generation**, focusing on datasets, prompts, and representative generative models.
 ---
