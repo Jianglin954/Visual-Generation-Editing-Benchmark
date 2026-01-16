@@ -1,11 +1,9 @@
 # Text-to-Image Generation Benchmark
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-![Benchmark](https://img.shields.io/badge/Text--to--Image-Generation-Benchmark-blue)
+![Benchmark](https://img.shields.io/badge/Multimodal_Alignment-blue)
 
-A curated benchmark for **Text-to-Image (T2I) generation**, focusing on datasets, prompts, and representative generative models.  
-This repository aims to serve as a **lightweight reference and evaluation hub** for researchers working on diffusion-based and autoregressive image generation.
-
+A curated benchmark for **Text-to-Image (T2I) generation**, focusing on datasets, prompts, and representative generative models.
 ---
 
 ## Table of Contents
