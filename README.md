@@ -1,40 +1,72 @@
 # Text-to-Image Generation Benchmark
 
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+![Benchmark](https://img.shields.io/badge/Text--to--Image-Generation-Benchmark-blue)
 
-[![Text-to-Image Generation](https://awesome.re/badge.svg)](https://awesome.re)
-![Paper Reading](https://img.shields.io/badge/Text-To-Image-Generation-Benchmark-blue)
+A curated benchmark for **Text-to-Image (T2I) generation**, focusing on datasets, prompts, and representative generative models.  
+This repository aims to serve as a **lightweight reference and evaluation hub** for researchers working on diffusion-based and autoregressive image generation.
 
-## Contents
-- [Dataset](#data)
-  - [Prompt](#prompt)
-- [Models](#model)
-  - [Diffusion](#diffusion)
-  - [AR](#ar)
+---
 
-<a name="data" />
-## Dataset [[Back to Top]](#)
+## Table of Contents
+- [Dataset](#dataset)
+  - [Prompt Collection](#prompt-collection)
+- [Models](#models)
+  - [Diffusion Models](#diffusion-models)
+  - [Autoregressive Models](#autoregressive-models)
 
-<a name="Prompt" />
-### Prompt
+---
 
-1. **Deep Residual Learning for Image Recognition** * Kaiming He et al, CVPR 2016.*  [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7780459) 
+## Dataset
 
+This benchmark organizes evaluation data with a strong emphasis on **prompt quality**, **semantic diversity**, and **reproducibility**.
 
+### Prompt Collection
 
+The following prompts are derived from canonical academic literature and are designed to test a model’s ability to capture **semantic structure, compositionality, and abstract concepts**.
 
+1. **Deep Residual Learning for Image Recognition**  
+   *Kaiming He et al., CVPR 2016*  
+   [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7780459)
 
-<a name="model" />
+> More prompts will be added progressively to cover different abstraction levels, visual styles, and reasoning complexity.
+
+---
+
 ## Models
 
-1. **Updating.** * et al, .*  [[PDF]]() 
+This section categorizes representative **Text-to-Image generation models** evaluated or referenced in this benchmark.
 
-<a name="diffusion" />
-### Diffusion
+> 🚧 *This section is under active development.*
 
-1. **Updating.** * et al, .*  [[PDF]]() 
+### Diffusion Models
 
+Diffusion-based models that iteratively refine noise into images.
 
-<a name="ar" />
-### AR
+1. **Updating**  
+   *et al.*  
+   [[PDF]]()
 
-1. **Updating.** * et al, .*  [[PDF]]() 
+---
+
+### Autoregressive Models
+
+Autoregressive (AR) models that generate images as sequences of tokens or patches.
+
+1. **Updating**  
+   *et al.*  
+   [[PDF]]()
+
+---
+
+## Roadmap
+- [ ] Expand prompt set with fine-grained semantic controls  
+- [ ] Add standardized evaluation metrics (FID, CLIP-Score, human preference)  
+- [ ] Include model configuration and inference settings  
+- [ ] Provide reproducible evaluation scripts  
+
+---
+
+## Citation
+
+If you find this benchmark useful, please consider citing or starring the repository.
