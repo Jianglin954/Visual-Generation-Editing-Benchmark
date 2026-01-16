@@ -1,4 +1,4 @@
-# Text-to-Image Generation Benchmark
+# Visual Generation & Editing Benchmark
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 ![Benchmark](https://img.shields.io/badge/Text2Image_Generation-blue)
