@@ -21,9 +21,9 @@
 
 - [*arXiv 2025*] **UniGenBench++: A Unified Semantic Evaluation Benchmark for Text-to-Image Generation** [[PDF](https://arxiv.org/pdf/2510.18701)][[Code](https://github.com/CodeGoat24/UniGenBench)]![GitHub Repo stars](https://img.shields.io/github/stars/CodeGoat24/UniGenBench?style=social)
 
-- [*TPAMI 2025*] **T2I-CompBench++: An Enhanced and Comprehensive Benchmark for Compositional Text-to-Image Generation** [[PDF](https://arxiv.org/pdf/2307.06350)[[Code]](https://github.com/Karine-Huang/T2I-CompBench)][[Dataset](https://connecthkuhk-my.sharepoint.com/:f:/g/personal/huangky_connect_hku_hk/Er_BhrcMwGREht6gnKGIErMBx8H8yRXLDfWgWQwKaObQ4w?e=YzT5wG)]![GitHub Repo stars](https://img.shields.io/github/stars/Karine-Huang/T2I-CompBench?style=social)
+- [*TPAMI 2025*] **T2I-CompBench++: An Enhanced and Comprehensive Benchmark for Compositional Text-to-Image Generation** [[PDF](https://arxiv.org/pdf/2307.06350)[[Code]](https://github.com/Karine-Huang/T2I-CompBench)]![GitHub Repo stars](https://img.shields.io/github/stars/Karine-Huang/T2I-CompBench?style=social)
 
-- [*NeurIPS 2023*] **T2I-CompBench: A Comprehensive Benchmark for Open-world Compositional Text-to-image Generation** [[PDF](https://openreview.net/pdf?id=weHBzTLXpH)][[Code](https://github.com/Karine-Huang/T2I-CompBench)[[Dataset]](https://connecthkuhk-my.sharepoint.com/:f:/g/personal/huangky_connect_hku_hk/Er_BhrcMwGREht6gnKGIErMBx8H8yRXLDfWgWQwKaObQ4w?e=YzT5wG)]![GitHub Repo stars](https://img.shields.io/github/stars/Karine-Huang/T2I-CompBench?style=social)
+- [*NeurIPS 2023*] **T2I-CompBench: A Comprehensive Benchmark for Open-world Compositional Text-to-image Generation** [[PDF](https://openreview.net/pdf?id=weHBzTLXpH)][[Code](https://github.com/Karine-Huang/T2I-CompBench)![GitHub Repo stars](https://img.shields.io/github/stars/Karine-Huang/T2I-CompBench?style=social)
 
 - [*GitHub 2023*] **Text-to-Image Benchmark: A benchmark for generative models** [[PDF]()][[Code](https://github.com/boomb0om/text2image-benchmark)]![GitHub Repo stars](https://img.shields.io/github/stars/boomb0om/text2image-benchmark?style=social)
 
