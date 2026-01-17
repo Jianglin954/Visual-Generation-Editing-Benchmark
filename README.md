@@ -35,6 +35,8 @@ If you have come across relevant resources, feel free to open an [Issue](https:/
 
 - [*arXiv 2025*] **UniGenBench++: A Unified Semantic Evaluation Benchmark for Text-to-Image Generation** [[PDF](https://arxiv.org/pdf/2510.18701)][[Code](https://github.com/CodeGoat24/UniGenBench)]![GitHub Repo stars](https://img.shields.io/github/stars/CodeGoat24/UniGenBench?style=social)
 
+- [*arXiv 2025*] **Pref-GRPO: Pairwise Preference Reward-based GRPO for Stable Text-to-Image Reinforcement Learning** [[PDF](https://arxiv.org/pdf/2508.20751)][[Code](https://github.com/CodeGoat24/Pref-GRPO)]![GitHub Repo stars](https://img.shields.io/github/stars/CodeGoat24/Pref-GRPO?style=social)
+
 - [*TPAMI 2025*] **T2I-CompBench++: An Enhanced and Comprehensive Benchmark for Compositional Text-to-Image Generation** [[PDF](https://arxiv.org/pdf/2307.06350)[[Code]](https://github.com/Karine-Huang/T2I-CompBench)]![GitHub Repo stars](https://img.shields.io/github/stars/Karine-Huang/T2I-CompBench?style=social)
 
 - [*NeurIPS 2023*] **T2I-CompBench: A Comprehensive Benchmark for Open-world Compositional Text-to-image Generation** [[PDF](https://openreview.net/pdf?id=weHBzTLXpH)][[Code](https://github.com/Karine-Huang/T2I-CompBench)![GitHub Repo stars](https://img.shields.io/github/stars/Karine-Huang/T2I-CompBench?style=social)
