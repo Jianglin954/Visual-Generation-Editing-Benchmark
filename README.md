@@ -92,6 +92,8 @@ If you have come across relevant resources, feel free to open an [Issue](https:/
 ## Editing Benchmark
 ### Text-to-Image Editing
 
+- [*arXiv 2026*] **NextFlow: Unified Sequential Modeling Activates Multimodal Understanding and Generation** [[PDF](https://arxiv.org/pdf/2601.02204)][[Code](https://github.com/ByteVisionLab/NextFlow)]![GitHub Repo stars](https://img.shields.io/github/stars/ByteVisionLab/NextFlow?style=social)
+
 - [*arXiv 2025*] **Complex-Edit: CoT-Like Instruction Generation for Complexity-Controllable Image Editing Benchmark** [[PDF](https://arxiv.org/pdf/2504.13143)][[Code](https://github.com/UCSC-VLAA/Complex-Edit)]![GitHub Repo stars](https://img.shields.io/github/stars/UCSC-VLAA/Complex-Edit?style=social)
 
 - [*arXiv 2025*] **CompBench: Benchmarking Complex Instruction-guided Image Editing** [[PDF](https://arxiv.org/pdf/2505.12200)][[Code](https://github.com/BhJia/CompBench)]![GitHub Repo stars](https://img.shields.io/github/stars/BhJia/CompBench?style=social)
