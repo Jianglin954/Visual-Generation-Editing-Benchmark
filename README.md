@@ -1,7 +1,7 @@
 # Visual Generation & Editing Benchmark
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-![Benchmark](https://img.shields.io/badge/Text2Image_Generation-blue)
+![Benchmark](https://img.shields.io/badge/Image_Generation-blue)
 
 
 ---
@@ -30,6 +30,20 @@ If you have come across relevant resources, feel free to open an [Issue](https:/
 
 ## Generation Benchmark
 ### Text-to-Image Generation
+
+- [*ICLR 2026*] **GIR-Bench: Versatile Benchmark for Generating Images with Reasoning** [[PDF](https://arxiv.org/pdf/2510.11026)][[Code](https://github.com/HKUST-LongGroup/GIR-Bench)]![GitHub Repo stars](https://img.shields.io/github/stars/HKUST-LongGroup/GIR-Bench?style=social)
+
+- [*ICLR 2026*] **ImagenWorld: Stress-Testing Image Generation Models with Explainable Human Evaluation on Open-ended Real-World Tasks** [[PDF](https://openreview.net/pdf?id=bld9g6jFh9)][[Code](https://github.com/TIGER-AI-Lab/ImagenWorld)]![GitHub Repo stars](https://img.shields.io/github/stars/TIGER-AI-Lab/ImagenWorld?style=social)
+
+- [*ICLR 2026*] **Factuality Matters: When Image Generation and Editing Meet Structured Visuals** [[PDF](https://arxiv.org/pdf/2510.05091)][[Code](https://github.com/zhuole1025/Structured-Visuals)]![GitHub Repo stars](https://img.shields.io/github/stars/zhuole1025/Structured-Visuals?style=social)
+
+- [*ICLR 2026*] **MME-Unify: A Comprehensive Benchmark for Unified Multimodal Understanding and Generation Models** [[PDF](https://arxiv.org/pdf/2504.03641)][[Code](https://github.com/MME-Benchmarks/MME-Unify)]![GitHub Repo stars](https://img.shields.io/github/stars/MME-Benchmarks/MME-Unify?style=social)
+
+
+
+
+- [*arXiv 2026*] **Envision: Benchmarking Unified Understanding & Generation for Causal World Process Insights** [[PDF](https://arxiv.org/pdf/2512.01816)][[Code](https://github.com/OpenRaiser/Envision)]![GitHub Repo stars](https://img.shields.io/github/stars/OpenRaiser/Envision?style=social)
+
 
 - [*EMNLP 2025*] **R2I-Bench: Benchmarking Reasoning-Driven Text-to-Image Generation** [[PDF](https://arxiv.org/pdf/2505.23493)][[Code](https://github.com/PLUM-Lab/R2I-Bench)]![GitHub Repo stars](https://img.shields.io/github/stars/PLUM-Lab/R2I-Bench?style=social)
 
